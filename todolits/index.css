@@ -1,0 +1,13 @@
+.head>h1{
+    text-align: center;
+}
+
+.btn{
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
